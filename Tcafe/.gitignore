@@ -1,0 +1,12 @@
+# Python compiled files
+__pycache__/
+*.pyc
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# IDE settings
+.vscode/
+.idea/
